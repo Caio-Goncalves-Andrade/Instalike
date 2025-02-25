@@ -1,0 +1,9 @@
+Chave Gemini
+AIzaSyC_gHlxn0eLDEfJrfyxSexqUc7GT_-bJIM
+
+Usuario MongoDB
+caio2006andrade
+NLnPc9cuHpIrVrAa
+
+Connection String MongoDB
+mongodb+srv://caio2006andrade:NLnPc9cuHpIrVrAa@cluster0.5hmdz.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
